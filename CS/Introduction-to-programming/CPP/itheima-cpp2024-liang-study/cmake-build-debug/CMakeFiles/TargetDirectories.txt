@@ -1,0 +1,3 @@
+/Users/liang/Downloads/同步空间/EE-CS-ME-lessons-and-notes/CS/Introduction to programming/CPP/My-study/itheima-cpp2024-liang-study/cmake-build-debug/CMakeFiles/itheima_cpp2024_liang_study.dir
+/Users/liang/Downloads/同步空间/EE-CS-ME-lessons-and-notes/CS/Introduction to programming/CPP/My-study/itheima-cpp2024-liang-study/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liang/Downloads/同步空间/EE-CS-ME-lessons-and-notes/CS/Introduction to programming/CPP/My-study/itheima-cpp2024-liang-study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
